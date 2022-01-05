@@ -41,7 +41,6 @@
 <li></li>
 <li>Fetch subdivisions</li>
 <li>Fetch countries</li>
-<li>No Credit Card Fix</li>
 </ul>
     
  <h3 align="left"> Goals:</h3>
@@ -85,16 +84,14 @@
 <p>#npm test: Launches the test runner in the interactive watch mode</p>
 <p>#npm run build: Builds the app for production to the #build folder</p>
 
-
-
 <h3 align="left"> Prerequisites:</h3>
 
   <p>Node: 16.13.1</p>
   <p>NPM: 8.1.2</p>
   
- <h3 align="left">Payment System:</h3>
+  <h3 align="left">Payment System:</h3>
   
- <p>Stripe</p>
+  <p>Stripe</p>
  
 <h3 align="left">References:</h3>
 
