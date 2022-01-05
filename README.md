@@ -99,7 +99,7 @@
 <h3 align="left">References:</h3>
 
 <ul>
-<li><a href="https://fullstackopen.com/en/ ">Deep Dive into Modern Web Development</a></li>
+<li><a href="https://fullstackopen.com/en/">Deep Dive into Modern Web Development</a></li>
 <li><a href="https://stackoverflow.com/"></a></li>
 <li><a href="https://stripe.com/en-gb-fi">Stripe</a></li>
 <li><a href="https://commercejs.com/">Commerce.JS</a></li>
@@ -110,5 +110,5 @@
 <h3 align="left">License:</h3>
   
 <p>MIT</p>
-![image](https://user-images.githubusercontent.com/89943976/148208615-2b7d4652-9653-4155-bdb3-6e1fa4c1866d.png)
+
 
