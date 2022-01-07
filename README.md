@@ -52,7 +52,7 @@
   <p>To add products, remove products, empty cart</p>
   <p>Checkout</p>
   <p> Order confirmation by email</p>
-  <p>Deploy App to Netlify</p>
+  <p>Deploy App to Netlify & Heroku</p>
   <p>Gain knowledge of frontend and backend concepts</p>
   
 <h3 align="left">Technologies:</h3>
