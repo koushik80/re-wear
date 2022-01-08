@@ -16,7 +16,7 @@
 
 <h3 align="left">Description: A fully functional eCommerce application using React, Firebase, Stripe API, commerce.js</h3>
 
-<p>The app is created as the basis for my training project. The implementation strives to be simple. The application is composed of the following features:</p>
+<p>The app is created as the basis of learning. The implementation strives to be simple. The application is composed of the following features:</p>
 
 <p>Front-end</p>
 
@@ -106,6 +106,6 @@
 
 <h3 align="left">License:</h3>
   
-<p>MIT</p>
+<p></p>
 
 
