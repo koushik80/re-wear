@@ -1,6 +1,6 @@
 # Hi there! here goes below my Project information 👋
 
-<div align="center"><a href="https://rewear-ecommerce.herokuapp.com/">Rﾐ-₩ﾖAR_visit me</a></div>    
+<div align="center"><a href="https://rewear-ecommerce.herokuapp.com/">Rﾐ-₩ﾖAR_visit my store</a></div>    
 <h1 align="center">Table of Content</h1>
  
    <p>Title</p>
