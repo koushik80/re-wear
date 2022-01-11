@@ -1,4 +1,4 @@
-# Hi there! here goes below my React Project information 👋
+# Hi there! here goes below my Project information 👋
 
 <div align="center"><a href="https://rewear-ecommerce.herokuapp.com/">Rﾐ-₩ﾖAR_visit me</a></div>    
 <h1 align="center">Table of Content</h1>
